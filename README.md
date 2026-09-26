@@ -1,13 +1,11 @@
-Here is a comprehensive, production-grade `README.md` file tailored specifically for your **[Elevate-Lab-task-3](https://github.com/debashish-5/Elevate-Lab-task-3?utm_source=gemini)** repository based on the files in your project:
 
-```markdown
-# 🏡 California Housing Price Prediction & Deployment Pipeline
+# California Housing Price Prediction & Deployment Pipeline
 
 An end-to-end Machine Learning project covering exploratory data analysis, algorithm benchmark selection, feature transformation pipelines, model serialization, and web application deployment for real estate price estimation.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This repository demonstrates a complete, industry-standard machine learning workflow using the California Housing Dataset:
 
@@ -19,7 +17,7 @@ This repository demonstrates a complete, industry-standard machine learning work
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 Elevate-Lab-task-3/
@@ -41,7 +39,7 @@ Elevate-Lab-task-3/
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 * **Programming Language:** Python 3.x
 * **Data Manipulation & Analysis:** `pandas`, `numpy`
@@ -53,7 +51,7 @@ Elevate-Lab-task-3/
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 The project uses the **California Housing Dataset** (`housing.csv`). Key metrics include:
 
@@ -69,7 +67,7 @@ The project uses the **California Housing Dataset** (`housing.csv`). Key metrics
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### 1. Clone the Repository
 
@@ -101,7 +99,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn streamlit
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Option A: Run Jupyter Notebooks
 
@@ -143,7 +141,7 @@ streamlit run ML-webiste.py
 
 ---
 
-## 🔄 Machine Learning Workflow
+## Machine Learning Workflow
 
 ```text
 [ Raw Data: housing.csv ]
@@ -164,7 +162,7 @@ streamlit run ML-webiste.py
 
 ---
 
-## 📈 Key Capabilities & Features
+## Key Capabilities & Features
 
 * **Full Pipeline Integration:** Automated handling of missing value imputation, categorical one-hot encoding, and numerical standard scaling.
 * **Persistent Model Storage:** The exported `pipeline.pkl` enables fast inference without retraining.
@@ -172,7 +170,7 @@ streamlit run ML-webiste.py
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 * Integrate advanced gradient boosting algorithms (e.g., XGBoost, LightGBM).
 * Hyperparameter optimization using `GridSearchCV` or `RandomizedSearchCV`.
@@ -180,7 +178,7 @@ streamlit run ML-webiste.py
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork this repository.
 2. Create a feature branch: `git checkout -b feature/AmazingFeature`
@@ -190,9 +188,9 @@ streamlit run ML-webiste.py
 
 ---
 
-## 👤 Author
+## Author
 
-Developed by **[Debashish Parida](https://github.com/debashish-5?utm_source=gemini)**
+Developed by [Debashish Parida](https://github.com/debashish-5?utm_source=gemini)
 
 * GitHub: [@debashish-5](https://github.com/debashish-5?utm_source=gemini)
 
